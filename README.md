@@ -106,11 +106,6 @@ The model performance was evaluated using a standard train-test split. While the
 
 ## Key Metrics
 
-Metric,Value
-Overall Accuracy,84.90%
-Precision (Class 0),0.85
-Recall (Class 1),0.08
-
 | Metric                  | Value    |
 | :---------------------- | :------- |
 | **Overall Accuracy**    | `84.90%` |
@@ -118,10 +113,6 @@ Recall (Class 1),0.08
 | **Recall (Class 1)**    | `0.08`   |
 
 ## Confusion Matrix
-
-,Predicted Negative,Predicted Positive
-Actual Negative,942 (TN),9 (FP)
-Actual Positive,161 (FN),14 (TP)
 
 |                 | Predicted Negative | Predicted Positive |
 | :-------------- | :----------------- | :----------------- |
